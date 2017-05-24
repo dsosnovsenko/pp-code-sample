@@ -1,0 +1,1 @@
+<div>Default template of plugin.</div>
